@@ -1,0 +1,2 @@
+export const ON_CHANGE_EXPENSES = 'ON_CHANGE_EXPENSES';
+export const ON_SET_PRICE = 'ON_SET_PRICE';
